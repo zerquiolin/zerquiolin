@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/zerquiolin" target="blank"><img src="https://img.shields.io/twitter/follow/zerquiolin?logo=twitter&style=for-the-badge" alt="zerquiolin" /></a> </p>
 
-- 🌱 I’m currently learning **Framerworks ~ Programming lenguages ~ Desgin**
+- 🌱 I’m currently learning **Framerworks ~ Programming lenguages ~ Desgin ~ Algorithms ~ Data Structures ~ Design Patterns**
 
 - 💬 Ask me about **Anything u want :3**
 
