@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerquiolin&show_icons=true&locale=en" alt="zerquiolin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerquiolin&" alt="zerquiolin" /></p>
+
+
+
+
+![Metrics](https://metrics.lecoq.io/zerquiolin?template=classic&languages=1&introduction=1&lines=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&tweets.attachments=false&tweets.limit=2&tweets.user=zerquiolin&config.timezone=America%2FBogota)
+
