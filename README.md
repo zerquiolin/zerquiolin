@@ -101,10 +101,10 @@ Docker · Kubernetes · AWS · GCP · Git · CI/CD
 
 I’m available for consulting, speaking engagements, and collaborative projects. Let’s connect!
 
-* 📅 **Schedule a meeting:** [Calendly](https://calendly.com/yourusername)
-* ✉️ **Email:** [email@aisolution.com](mailto:email@aisolution.com)
-* 🔗 **LinkedIn:** [linkedin.com/in/alexchen](https://linkedin.com/in/alexchen)
-* 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+* 📅 **Schedule a meeting:** [Calendly](https://calendly.com/zerquiolin)
+* ✉️ **Email:** [sergioamar@outlook.com](mailto:sergioamar@outlook.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/sergioamar](https://linkedin.com/in/sergioamar)
+* 🐙 **GitHub:** [github.com/zerquiolin](https://github.com/zerquiolin)
 
 ---
 
