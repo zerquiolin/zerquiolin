@@ -90,7 +90,7 @@ Docker · Kubernetes · AWS · GCP · Git · CI/CD
 
 ### ✦ GitHub Stats & Trophies
 
-<p align="center">
+<p align="center" style="display: flex">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zerquiolin&theme=default" alt="Profile Details" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerquiolin&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
